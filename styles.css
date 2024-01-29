@@ -70,12 +70,8 @@ button {
 .dark-mode i {
   position: relative;
   left: 80px;
-
-  transition: 0.3s;
 }
 .white-mode i {
   position: relative;
   right: 80px;
-
-  transition: 0.3s;
 }
