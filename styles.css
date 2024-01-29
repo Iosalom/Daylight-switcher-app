@@ -6,7 +6,7 @@
 }
 
 body {
-  height: 100vh;
+  min-height: 100vh;
   background: rgb(35, 35, 35);
   background: linear-gradient(rgb(68, 68, 68), rgb(24, 24, 24));
 
