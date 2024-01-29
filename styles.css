@@ -9,7 +9,6 @@ body {
   height: 100vh;
   background: rgb(35, 35, 35);
   background: linear-gradient(rgb(68, 68, 68), rgb(24, 24, 24));
-  transition: 0.5s;
 
   font-family: sans-serif;
 
