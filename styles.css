@@ -42,7 +42,6 @@ button {
   background: white;
   color: black;
   font-size: 60px;
-  cursor: pointer;
 
   width: 250px;
   height: 100px;
@@ -50,6 +49,9 @@ button {
   border-radius: 50px;
 
   margin-left: 25px;
+}
+@media (min-width: 1600px) {
+  cursor: pointer;
 }
 .dark-mode {
   border: 5px solid rgb(212, 208, 208);
